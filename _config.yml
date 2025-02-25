@@ -2,7 +2,20 @@ title: FAQ
 description: Virtual Lab Infrastructure of SUSS
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://suss-vli.github.io/faq/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  VLI: http://suss-vli.github.io
+
+extra_javascript:
+  - /assets/js/tracking.js
+
+# markdown: kramdown
+# heading_anchors: true
+
+callouts:
+  important:
+    title: Important
+    color: blue
+
+ga_tracking: G-59V28ECH68
